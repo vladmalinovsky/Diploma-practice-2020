@@ -1,0 +1,9 @@
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\bin\Debug\CombustionModeling.exe.config
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\bin\Debug\CombustionModeling.exe
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\bin\Debug\CombustionModeling.pdb
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\obj\Debug\CombustionModeling.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\obj\Debug\CombustionModeling.Properties.Resources.resources
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\obj\Debug\CombustionModeling.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\obj\Debug\CombustionModeling.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\obj\Debug\CombustionModeling.exe
+C:\Users\Vlad\source\repos\CombustionModeling\CombustionModeling\obj\Debug\CombustionModeling.pdb
